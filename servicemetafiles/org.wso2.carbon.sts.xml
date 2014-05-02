@@ -3,7 +3,7 @@
    <service name="wso2carbon-sts"
             serviceDocumentation="wso2carbon-sts"
             exposedAllTransports="false"
-            serviceDeployedTime="1390789677656"
+            serviceDeployedTime="1398988668485"
             successfullyAdded="true">
       <operation name="IssueToken">
          <parameter name="token-dispatcher-configuration">

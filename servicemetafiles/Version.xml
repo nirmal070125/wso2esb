@@ -5,7 +5,7 @@
    <service name="Version"
             serviceDocumentation="Version"
             exposedAllTransports="false"
-            serviceDeployedTime="1390789671711"
+            serviceDeployedTime="1398988663382"
             successfullyAdded="true">
       <operation name="getVersion">
          <module name="addressing" version="4.2.0" type="engagedModules"/>

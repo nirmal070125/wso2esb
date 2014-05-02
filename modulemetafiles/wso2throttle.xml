@@ -4,10 +4,10 @@
       <parameter name="managedModule" locked="true">true</parameter>
       <policies>
          <policy policyType="1" version="4.2.0">
-            <policyUUID>a212e849ef0139ecd435cf33d58373c370da8650f255e507</policyUUID>
+            <policyUUID>bd66b03121c78022f78abc6d0e589f13b4aed6faa6d6560b</policyUUID>
             <wsp:Policy xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy"
                         xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd"
-                        wsu:Id="a212e849ef0139ecd435cf33d58373c370da8650f255e507">
+                        wsu:Id="bd66b03121c78022f78abc6d0e589f13b4aed6faa6d6560b">
                <throttle:ModuleThrottleAssertion xmlns:throttle="http://www.wso2.org/products/wso2commons/throttle">
                   <wsp:Policy>
                      <throttle:ID throttle:type="IP">other</throttle:ID>

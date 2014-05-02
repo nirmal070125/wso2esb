@@ -5,7 +5,7 @@
    <service name="echo"
             serviceDocumentation="echo"
             exposedAllTransports="false"
-            serviceDeployedTime="1390789671220"
+            serviceDeployedTime="1398988662885"
             successfullyAdded="true">
       <operation name="echoStringArrays">
          <module name="addressing" version="4.2.0" type="engagedModules"/>
